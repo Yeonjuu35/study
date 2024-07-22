@@ -1,0 +1,9 @@
+#qna dd{
+  display: none;
+}
+#qna dt.on{
+  text-align: center;
+}
+#qna dt.on + dd{
+  display: block;
+}
